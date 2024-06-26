@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-access-control/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-access-control/actions/workflows/publish.yml)
+
 learning-access-control
 # Learning Acces Control
 
