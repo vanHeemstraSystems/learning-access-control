@@ -1,7 +1,21 @@
-repository-name
-# Repository Name
+learning-access-control
+# Learning Acces Control
 
-Based on "ABC" at https://www.abc.com/
+Based on "Learning" at https://github.com/vanHeemstraSystems/learning
+
+Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
+
+Can be read as "Learning - Access Control" at https://app.gitbook.com/o/???/
+
+Can be browsed as "Learning - Access Control" at https://vanheemstrasystems.github.io/learning-access-control/
+
+~Roadmap to Learning Access Control at https://roadmap.sh/access-control~
+
+Related to "Creating Access Control" at https://github.com/vanHeemstraSystems/creating-access-control
+
+Related to "Start Finishing Access Control" at https://github.com/vanHeemstraSystems/start-finishing-access-control
+
+Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
 ## 100 - Introduction
 
